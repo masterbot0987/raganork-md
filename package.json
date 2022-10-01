@@ -1,8 +1,8 @@
 {
-  "name": "raganork-md", 
+  "name": "master-md", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "Master whatsapp bot- Multi device version.",
+  "main": "./Master/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Hashim",
+  "developer": "@masterbot0987",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
